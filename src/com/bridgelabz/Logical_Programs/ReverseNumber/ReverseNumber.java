@@ -17,7 +17,7 @@ public class ReverseNumber {
 	revers=(revers*10)+a;
 	num=num/10;
 	}
-	System.out.println("reverse of a number is "+revers);
+	System.out.println("reverse of this number is "+revers);
 	}
 	}
 
